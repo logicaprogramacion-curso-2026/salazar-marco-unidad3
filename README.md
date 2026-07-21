@@ -1,6 +1,6 @@
 # [Nombre del proyecto]
 
-**Alumno:** [Apellido, Nombre]
+**Alumno:** Salazar, Marco
 **Curso:** [Nombre del curso]
 **Fecha de inicio:** [dd/mm/aaaa]
 
