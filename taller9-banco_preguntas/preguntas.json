@@ -1,0 +1,30 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es la salida de print(5 // 2)?",
+      "opciones": {
+        "A": "2.5",
+        "B": "2",
+        "C": "3",
+        "D": "2.0"
+      },
+      "respuesta_correcta": "B",
+      "dificultad": "Fácil",
+      "tema": "Operadores Aritméticos"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Qué función obtiene la longitud de una lista?",
+      "opciones": {
+        "A": "size()",
+        "B": "length()",
+        "C": "len()",
+        "D": "count()"
+      },
+      "respuesta_correcta": "C",
+      "dificultad": "Fácil",
+      "tema": "Funciones Built-in"
+    }
+  ]
+}
