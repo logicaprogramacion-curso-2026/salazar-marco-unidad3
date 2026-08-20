@@ -1,0 +1,7 @@
+SISTEMA: Creado ventas.csv inicial con 10 ventas registradas.
+VENTA: P01 x2 u. Total: $30.00
+ERROR: Intento fallido de venta. ID 'P99' no está en el catálogo.
+ERROR: Intento fallido de venta. ID 'X10' no está en el catálogo.
+CATÁLOGO: Nuevo producto P06 añadido. Precio: $12.5, Stock: 40
+VENTA: P06 x10 u. Total: $118.75
+GRÁFICO: Exportado ingresos.png a disco.
